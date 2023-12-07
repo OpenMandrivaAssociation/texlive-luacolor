@@ -1,6 +1,6 @@
 Name:		texlive-luacolor
-Version:	57829
-Release:	2
+Version:	67987
+Release:	1
 Summary:	Color support based on LuaTeX's node attributes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luacolor
