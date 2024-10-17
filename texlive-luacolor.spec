@@ -3,7 +3,7 @@ Version:	67987
 Release:	1
 Summary:	Color support based on LuaTeX's node attributes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luacolor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luacolor
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luacolor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luacolor.doc.r%{version}.tar.xz
